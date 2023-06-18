@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Gui Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD candidate in Corpus Linguistics and cognitive linguistics at Zhejiang University"
+  location         : "https://www.google.com/maps/d/viewer?mid=1oezKwNODKGb_4ibMS7slB8hmB38&hl=en_US&ll=30.298800772599925%2C120.09434850315604&z=14"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=LuPi_SoAAAAJ&hl=zh-CN&oi=sra"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
