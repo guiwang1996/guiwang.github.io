@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gui Wang / guiwang.github.io"
+title                    : "Gui Wang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
