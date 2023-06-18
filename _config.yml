@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Gui Wang"
   avatar           : "profile.png"
-  bio              : "PhD candidate in Corpus Linguistics and cognitive linguistics at Zhejiang University"
+  bio              : "PhD candidate in Corpus Linguistics and Cognitive Linguistics at Zhejiang University"
   location         : "Hangzhou, Zhejiang, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=LuPi_SoAAAAJ&hl=zh-CN&oi=sra"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Gui-Wang-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-1230-7523"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
